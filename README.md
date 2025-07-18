@@ -68,21 +68,6 @@ This project performs an exploratory data analysis (EDA) on Netflix’s dataset 
 ### 4. Visualization
 - Pie charts, bar graphs, heatmaps, and word clouds to enhance understanding of data patterns.
 
----
-
-## 📸 Screenshots
-
-### 🎬 Content Type Distribution
-![Screenshot 1](netflix_screenshot_1.png)
-
-### 🌍 Top Countries Producing Content
-![Screenshot 2](netflix_screenshot_2.png)
-
-### 📅 Content Added Over the Years
-![Screenshot 3](netflix_screenshot_3.png)
-
----
-
 ## 📈 Insights & Findings
 
 - Movies make up the majority of Netflix content.
