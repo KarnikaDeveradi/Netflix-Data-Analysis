@@ -59,14 +59,10 @@ This project performs an exploratory data analysis (EDA) on Netflix’s dataset 
 - Split duration into numerical and categorical parts.
 
 ### 3. Exploratory Data Analysis (EDA)
-- Content type breakdown (Movies vs TV Shows).
 - Most common genres and countries.
 - Trend of content added per year.
-- Directors and actors with most appearances.
 - Ratings distribution and content duration analysis.
 
-### 4. Visualization
-- Pie charts, bar graphs, heatmaps, and word clouds to enhance understanding of data patterns.
 
 ## 📈 Insights & Findings
 
